@@ -1,6 +1,6 @@
 # Site salão de festas Boa Festa
 
-<div align="center" background= "white">
+<div align="center">
 <img src="https://github.com/SAMUKISZHSD/site-boa-festa-new/blob/main/img/IMG-20220921-WA0081__1_-removebg-preview.png">
 </div>
 
