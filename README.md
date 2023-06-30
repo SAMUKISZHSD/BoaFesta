@@ -4,4 +4,6 @@ Uma plataforma atualizada, projetada para facilitar seu acesso às informações
 **VEJA O SITE AQUI:** https://samukiszhsd.github.io/site-boa-festa-new/
 ##
 
-<img align="center" src="https://github.com/SAMUKISZHSD/site-boa-festa-new/blob/main/img/IMG-20220921-WA0081__1_-removebg-preview.png">
+<div align="center">
+<img src="https://github.com/SAMUKISZHSD/site-boa-festa-new/blob/main/img/IMG-20220921-WA0081__1_-removebg-preview.png">
+</div>
